@@ -1,4 +1,4 @@
-% The SAL Algorithm (Reinforcment Learning mechanism of the Selfish Algorithm)
+% The SAL Algorithm (Reinforcement Learning mechanism of the Selfish Algorithm)
 % Korosh Mahmoodi 111618
 % Cite: Mahmoodi, Korosh, Bruce J. West, and Cleotilde Gonzalez. "Selfish algorithm and emergence of collective intelligence." Journal of Complex Networks 8.3 (2020): cnaa019.
 tic
