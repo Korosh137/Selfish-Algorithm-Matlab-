@@ -1,4 +1,4 @@
-% The SALC algorithm (Reinforcement Learning and Connection mechanisms of the Selfish Algorithm)
+% The SALC algorithm (Reinforcement Learning (SAL) and Connection (SAC) mechanisms of the Selfish Algorithm)
 % Korosh Mahmoodi 111618
 % Cite: Mahmoodi, Korosh, Bruce J. West, and Cleotilde Gonzalez. "Selfish algorithm and emergence of collective intelligence." Journal of Complex Networks 8.3 (2020): cnaa019.
 tic
