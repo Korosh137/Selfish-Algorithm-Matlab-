@@ -19,7 +19,7 @@ Size = 20 ; % Number of the agents
 Chi_Connection = 0.1 ; % SAC mechanism (connect/play decision)
 Chi_RL = 0.1 ; %  SAL mechanism (Cooperation or Defection decision)
 Chi_Trust = 0.1 ; % SAT mechanism (trust decision)
-% You can deactivate SAT, SAC, or both mechanisms by setting the corresponding Chi constant(s) to zero (also, the initial conditions should set to zero)
+% You can deactivate SAT, SAC, or both mechanisms by setting the corresponding Chi constant(s) to zero (for deactivating Trust, also set the initial conditions to P_Trust = 0 and Trust_decision = 1)
 
 DemoStart = Trial - 1 ; % Time for the start of the demo
 Demoend = Trial ;
